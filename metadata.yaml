@@ -1,0 +1,30 @@
+_repo: Love-Letters-of-Nathaniel-Hawthorne-Volume-2-of-2_41368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2012-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love-letters'
+- !lcc 'PS'
+- !lcsh 'Novelists, American -- 19th century -- Correspondence'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Correspondence'
+- !lcsh 'Hawthorne, Sophia Peabody, 1809-1871 -- Correspondence'
+title: Love Letters of Nathaniel Hawthorne, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/41368
